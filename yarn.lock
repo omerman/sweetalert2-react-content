@@ -1498,11 +1498,6 @@
     "@typescript-eslint/parser" "^5.0.0"
     eslint-config-prettier "^8.3.0"
 
-"@sweetalert2/prettier-config@^1.0.0":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@sweetalert2/prettier-config/-/prettier-config-1.0.1.tgz#6992ac7a65768e6bbf013b8d6578194ea55267c1"
-  integrity sha512-8wsVLywp8CSahMYqWQ0Um3ezVKQiPOBBaA9avGODpbnEIfwK+Ow21IyobQ20GvJy8G0LoX2kdwSEuBN6qLAOEw==
-
 "@types/estree@*":
   version "0.0.51"
   resolved "https://registry.yarnpkg.com/@types/estree/-/estree-0.0.51.tgz#cfd70924a25a3fd32b218e5e420e6897e1ac4f40"
@@ -3818,6 +3813,11 @@ rimraf@^3.0.0, rimraf@^3.0.2:
   integrity sha512-JZkJMZkAGFFPP2YqXZXPbMlMBgsxzE8ILs4lMIX/2o0L9UBw9O/Y3o6wFw/i9YLapcUJWwqbi3kdxIPdC62TIA==
   dependencies:
     glob "^7.1.3"
+
+rollup-plugin-peer-deps-external@^2.2.4:
+  version "2.2.4"
+  resolved "https://registry.yarnpkg.com/rollup-plugin-peer-deps-external/-/rollup-plugin-peer-deps-external-2.2.4.tgz#8a420bbfd6dccc30aeb68c9bf57011f2f109570d"
+  integrity sha512-AWdukIM1+k5JDdAqV/Cxd+nejvno2FVLVeZ74NKggm3Q5s9cbbcOgUPGdbxPi4BXu7xGaZ8HG12F+thImYu/0g==
 
 rollup-plugin-terser@^7.0.0:
   version "7.0.2"
